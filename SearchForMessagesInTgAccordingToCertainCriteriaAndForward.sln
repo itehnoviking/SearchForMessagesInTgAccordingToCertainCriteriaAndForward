@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchForMessagesInTgAccordingToCertainCriteriaAndForward", "SearchForMessagesInTgAccordingToCertainCriteriaAndForward\SearchForMessagesInTgAccordingToCertainCriteriaAndForward.csproj", "{7DD789C7-7CCB-47D0-B1EC-7C29D7653E2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DD789C7-7CCB-47D0-B1EC-7C29D7653E2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DD789C7-7CCB-47D0-B1EC-7C29D7653E2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DD789C7-7CCB-47D0-B1EC-7C29D7653E2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DD789C7-7CCB-47D0-B1EC-7C29D7653E2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5FA0EF-868A-4BDD-B3B9-E9E368BBB42A}
+	EndGlobalSection
+EndGlobal
